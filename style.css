@@ -1,3 +1,8 @@
+body{
+    margin:0;
+    padding:0;
+    width:100%;
+}
 h1{
     font-family: "Audiowide", sans-serif;
     margin-left: -200px;
